@@ -15,7 +15,7 @@ dependencies:
   dio: ^5.4.1
   cupertino_icons: ^1.0.8
   openapi:
-    path: openapi
+    path: ./openapi
 
 dev_dependencies:
   flutter_test:
